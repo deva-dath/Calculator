@@ -1,0 +1,44 @@
+button{
+    width: 70px;
+    height: 70px;
+    
+}
+#clear{
+    height: 50px;
+    width: 70px;
+}
+#result{
+    width: 287px; height: 50px;
+}
+#out{
+    height: 400px;
+    width: 30%;
+
+
+}
+#equ{
+   margin-left: 225px;
+   margin-top: -298px;
+   
+}
+#equbt{
+    height: 290px;
+    background-color: rgb(70, 121, 216);
+}
+
+
+.ops{
+    background-color: gray;
+    opacity: .5;
+    
+}
+#main{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    width: fit-content;
+    height: 450px;
+}
+#full{
+    padding: 10px;
+}
